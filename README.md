@@ -24,6 +24,7 @@ O simulador é composto pelos seguintes elementos:
 - **Memória Principal**: Armazena os dados dos produtos no estoque.
 - **Cache**: Cada CPU possui uma cache que pode armazenar dados dos produtos. O protocolo MESIF garante a consistência entre as caches das CPUs.
 
-Autores:
+## Autores:
+
 - Matheus Foltran Consonni
 - Thiago Henrique Calvi
